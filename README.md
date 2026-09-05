@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22314206.svg)](https://doi.org/10.5281/zenodo.22314206)
+
 # Bonn EEG Leakage-Aware Benchmarking
 
 This repository contains the source code for the study:
