@@ -8,6 +8,7 @@ authors:
 
 version: 1.0.0
 date-released: 2026-09-05
+doi: "10.5281/zenodo.22314206"
 
 repository-code: "https://github.com/Hindarto73/Bonn-EEG-Leakage-Aware-Benchmarking"
 
