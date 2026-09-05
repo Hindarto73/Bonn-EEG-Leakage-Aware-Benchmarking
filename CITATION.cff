@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Bonn EEG Leakage-Aware Benchmarking"
+message: "If you use this repository, please cite this work."
+
+authors:
+  - family-names: "Hindarto"
+    given-names: "Hindarto"
+
+version: 1.0.0
+date-released: 2026-09-05
+
+repository-code: "https://github.com/Hindarto73/Bonn-EEG-Leakage-Aware-Benchmarking"
+
+keywords:
+  - EEG classification
+  - machine learning
+  - leakage-aware benchmarking
+  - Bonn EEG dataset
+  - SHAP
+  - explainable AI
